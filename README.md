@@ -1,6 +1,6 @@
 # flutter_sample
 
-A new Flutter project.
+クリーンアーキテクチャやDDDを意識した設計の習作
 
 ## Getting Started
 
